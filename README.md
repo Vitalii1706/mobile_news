@@ -2,10 +2,6 @@
 
 ---
 
-## [Link](https://Vitalii1706.github.io/mobile_news/)
-
----
-
 ### _Author_
 
 ## Vitalii Kitral
