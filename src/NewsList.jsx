@@ -21,7 +21,7 @@ const NewsList = () => {
   }, []);
 
   const filterListNews = () => {
-    return listNews.filter(obj => obj.newsText?.toLowerCase().match(filterText.toLowerCase()));
+    return listNews.filter(obj => obj.newsText.toLowerCase().match(filterText.toLowerCase()));
   };
 
   return (
